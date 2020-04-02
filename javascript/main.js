@@ -46,7 +46,7 @@ links.forEach(function(link){
         //setInterval despues de cierto tiempo constantemente
 
         setTimeout(function(){
-            location.href ="/";
+            location.href ="/ejercicio-web";
         },600);
 
         
